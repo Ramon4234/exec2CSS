@@ -1,0 +1,25 @@
+
+header{
+    font-size: larger;
+}
+
+
+
+
+.bloco h2{
+    width: 400px;
+    height: 200px;
+    margin: 20px 10px 20px 10px;
+    padding: 30px;
+    border: solid 4px #e74c3c;
+    background: #f39c12;
+    border-radius: 15px;
+}
+span{
+     margin: 10px;
+    padding: 5px;
+    border-bottom: 2px dashed  #3498db;
+    letter-spacing: 1px;
+
+
+} 
